@@ -1,7 +1,6 @@
 ---
 version: c348132
 mirrors:
-- https://appsignal-agent-releases.global.ssl.fastly.net
 - https://d135dj0rjqvssy.cloudfront.net
 triples:
   x86_64-darwin:
